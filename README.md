@@ -15,7 +15,9 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
-<h4> Контакты </h4> <a href="https://www.linkedin.com/in/roman-kamelianov-b20b80236/">linkedin</a> <a href="https://t.me/remelianov">Telegram</a>
+<h4> Контакты: </h4> 
+<a href="https://www.linkedin.com/in/roman-kamelianov-b20b80236/">linkedin</a>
+<a href="https://t.me/remelianov">Telegram</a>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamelyanov)](https://github.com/anuraghazra/github-readme-stats)
