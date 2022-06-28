@@ -5,7 +5,7 @@
  <li> учусь новому </li>
  <li> применяю навыки на практике </li>
  <li> люблю работать в команде </li>
- <li> хочу делать полезные для людей продукты </li>
+ <li> хочу делать полезные продукты </li>
 </ul> 
 <h4> Мой стек: </h4>
 
@@ -14,6 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![React](https://img.shields.io/badge/-react-yellow)
 
 <h4> Контакты: </h4> 
 <a href="https://www.linkedin.com/in/roman-kamelianov-b20b80236/">linkedin</a>
